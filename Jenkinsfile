@@ -2,7 +2,7 @@ pipeline {
   agent any
 
   tools {
-    nodejs 'NodeJS'   // change if your Jenkins NodeJS tool has a different name
+    nodejs 'NodeJs'   // change if your Jenkins NodeJS tool has a different name
   }
 
   environment {
